@@ -127,6 +127,21 @@ img.profile-photo {
     margin: auto;
     border-radius: 12px;
 }
+.BrunoConcert {
+    max-width: 300px;
+    height: auto;
+    border-radius: 8px;
+    margin: auto;
+    border-radius: 12px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    justify-content: center;
+    margin: 2rem auto;
+    padding: 1rem;
+}
+
+
 
 main,
 header,
